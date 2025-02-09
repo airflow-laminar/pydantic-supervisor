@@ -9,7 +9,7 @@ Pydantic models for supervisor
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airflow-laminar/pydantic-supervisor/main?urlpath=lab)
 
 ## Overview
-
+Wrapper for [supervisor-pydantic](https://github.com/airflow-laminar/supervisor-pydantic).
 
 > [!NOTE]
 > This library was generated using [copier](https://copier.readthedocs.io/en/stable/) from the [Base Python Project Template repository](https://github.com/python-project-templates/base).

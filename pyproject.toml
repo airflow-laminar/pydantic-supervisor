@@ -24,7 +24,9 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 
-dependencies = []
+dependencies = [
+    "supervisor-pydantic",
+]
 
 [project.optional-dependencies]
 develop = [
