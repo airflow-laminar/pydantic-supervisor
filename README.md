@@ -6,7 +6,6 @@ Pydantic models for supervisor
 [![codecov](https://codecov.io/gh/airflow-laminar/pydantic-supervisor/branch/main/graph/badge.svg)](https://codecov.io/gh/airflow-laminar/pydantic-supervisor)
 [![License](https://img.shields.io/github/license/airflow-laminar/pydantic-supervisor)](https://github.com/airflow-laminar/pydantic-supervisor)
 [![PyPI](https://img.shields.io/pypi/v/pydantic-supervisor.svg)](https://pypi.python.org/pypi/pydantic-supervisor)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airflow-laminar/pydantic-supervisor/main?urlpath=lab)
 
 ## Overview
 Wrapper for [supervisor-pydantic](https://github.com/airflow-laminar/supervisor-pydantic).
