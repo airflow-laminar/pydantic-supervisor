@@ -8,6 +8,7 @@ Pydantic models for supervisor
 [![PyPI](https://img.shields.io/pypi/v/pydantic-supervisor.svg)](https://pypi.python.org/pypi/pydantic-supervisor)
 
 ## Overview
+
 Wrapper for [supervisor-pydantic](https://github.com/airflow-laminar/supervisor-pydantic).
 
 > [!NOTE]
