@@ -8,10 +8,8 @@ Pydantic models for supervisor
 [![PyPI](https://img.shields.io/pypi/v/pydantic-supervisor.svg)](https://pypi.python.org/pypi/pydantic-supervisor)
 
 ## Overview
-<<<<<<< before updating
+
 Wrapper for [supervisor-pydantic](https://github.com/airflow-laminar/supervisor-pydantic).
-=======
->>>>>>> after updating
 
 > [!NOTE]
 > This library was generated using [copier](https://copier.readthedocs.io/en/stable/) from the [Base Python Project Template repository](https://github.com/python-project-templates/base).
