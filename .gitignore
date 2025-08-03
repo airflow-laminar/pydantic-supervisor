@@ -139,10 +139,13 @@ js/dist
 js/lib
 js/node_modules
 js/*.tgz
+pydantic_supervisor/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+!pydantic_supervisor/extension/pydantic_supervisor.json
+!pydantic_supervisor/extension/install.json
 pydantic_supervisor/nbextension
 pydantic_supervisor/labextension
 
